@@ -1,0 +1,2 @@
+x="Menna"
+print(x)
